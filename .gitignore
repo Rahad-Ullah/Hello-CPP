@@ -9,5 +9,7 @@
 /dist
 
 # Ignore editor/IDE files
-.vscode
 .cph
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
